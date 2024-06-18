@@ -1,12 +1,32 @@
-## Hi there 👋
+# STS-ent 🎟️
 
-<!--
+**STS-ent**에 오신 것을 환영합니다! 영화, 콘서트, 미술관 티켓을 예매할 수 있는 원스톱 플랫폼입니다. 쉽고 편리하게 최고의 이벤트를 경험하세요.
 
-**Here are some ideas to get you started:**
+![STS-ent](./assets/logo.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 목차
+
+- [주요 기능](#주요-기능)
+- [설치 방법](#설치-방법)
+- [사용 방법](#사용-방법)
+- [스크린샷](#스크린샷)
+- [기여 방법](#기여-방법)
+- [라이선스](#라이선스)
+- [문의](#문의)
+
+## 주요 기능
+
+- 📽️ **영화**: 최신 블록버스터 영화 예매.
+- 🎤 **콘서트**: 좋아하는 아티스트의 콘서트 예매.
+- 🖼️ **미술관**: 주요 전시회 예약.
+- 🔎 **검색**: 카테고리, 날짜, 위치로 이벤트 검색.
+- 💳 **안전한 결제**: 빠르고 안전한 결제 처리.
+- 📱 **반응형 디자인**: 모든 기기에서 접근 가능.
+
+## 설치 방법
+
+STS-ent를 시작하려면 다음 단계를 따르세요:
+
+1. **레포지토리 클론**:
+   ```bash
+   git clone https://github.com/yourusername/STS-ent.git
