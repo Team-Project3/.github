@@ -29,4 +29,4 @@ STS-ent를 시작하려면 다음 단계를 따르세요:
 
 1. **레포지토리 클론**:
    ```bash
-   git clone https://github.com/yourusername/STS-ent.git
+   https://github.com/Team-Project3/STS_ent.git
