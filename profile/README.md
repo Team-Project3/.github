@@ -3,7 +3,8 @@
 **STS-ent**에 오신 것을 환영합니다! <br/>
 영화, 콘서트, 미술관 티켓을 예매할 수 있는 원스톱 플랫폼입니다. 쉽고 편리하게 최고의 이벤트를 경험하세요.
 
-![STS-ent](./assets/logo.png)
+![image](https://github.com/Team-Project3/.github/assets/131329687/02c4dc8b-1770-4061-a4b3-4cd20fd5723d)
+
 
 
 ## 주요 기능
